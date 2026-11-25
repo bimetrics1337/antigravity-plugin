@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "bimetrics": {
+      "serverUrl": "https://app.bimetrics.de/mcp"
+    }
+  }
+}

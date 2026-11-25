@@ -1,0 +1,35 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "bimetrics",
+  "displayName": "bimetrics",
+  "version": "1.0.0",
+  "description": "Buchhaltung für Selbstständige und Unternehmen in Deutschland: Belege, E-Rechnungen, Bankumsätze, Mahnwesen, Kassenbuch und DATEV-Export per MCP.",
+  "logo": "assets/icon.png",
+  "suggestedPrompts": [
+    "Prüfe, welche Belege und Bankumsätze für den Monatsabschluss noch offen sind.",
+    "Zeige mir alle überfälligen offenen Rechnungen meines Unternehmens.",
+    "Erstelle einen Rechnungsentwurf und zeige mir die Vorschau vor dem Festschreiben."
+  ],
+  "author": {
+    "name": "bimetrics GmbH",
+    "email": "support@bimetrics.de",
+    "url": "https://bimetrics.de"
+  },
+  "homepage": "https://bimetrics.de/mcp",
+  "repository": "https://github.com/bimetrics1337/antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "buchhaltung",
+    "belege",
+    "rechnungen",
+    "e-rechnung",
+    "zugferd",
+    "datev",
+    "kassenbuch",
+    "mahnwesen",
+    "accounting",
+    "invoicing",
+    "germany",
+    "mcp"
+  ]
+}
